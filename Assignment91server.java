@@ -1,3 +1,5 @@
+/*Write a client-server program using TCP socket for wired network to - 
+a. Say Hello to Each other  */
 // A Java program for a Server
 import java.net.*;
 import java.io.*;

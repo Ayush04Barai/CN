@@ -1,3 +1,5 @@
+/*Write a program for DNS lookup. Given an IP address as input, it should 
+return URL and vice-versa. */
 import java.net.*;
 import java.util.*;
 

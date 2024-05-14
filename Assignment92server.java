@@ -1,3 +1,5 @@
+/*Write a client-server program using TCP socket for wired network to - 
+b. File transfer  */
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.FileOutputStream;

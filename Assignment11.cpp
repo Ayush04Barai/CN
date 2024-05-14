@@ -1,3 +1,4 @@
+/*Write a program to demonstrate sub-nets  and find the subnet masks */
 #include <iostream>
 #include <string>
 #include <sstream>

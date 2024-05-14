@@ -1,3 +1,6 @@
+/*Write a program using UDP Sockets to enable file transfer (Script, Text, 
+Audio and Video one file each) between two machines. 
+ */
 import java.io.FileInputStream;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;

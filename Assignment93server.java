@@ -1,3 +1,5 @@
+/*Write a client-server program using TCP socket for wired network to - 
+c. Calculator  */
 import java.io.*;
 import java.net.*;
 

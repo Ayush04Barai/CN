@@ -1,3 +1,5 @@
+/*Write a program to demonstrate sub-nets  and find the subnet masks */
+
 import java.io.*;
 import java.net.InetAddress;
 
